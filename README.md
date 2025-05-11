@@ -5,4 +5,4 @@
   
 - <h3> Obrigado por visitar meu repositório ❤<h3>
 
-- ## By LaturbDevs - Vitor Almeida
+- ## By Laturb7zf - Vitor Almeida
